@@ -1,0 +1,10 @@
+<h1> KC CSO Real-Time Viewer</h1>
+      <script src ="https://embed.github.com/view/geojson/keum/data_display/master/cso_test_file.geojson?height=600&width=660"></script>
+      <h2>
+      <ul>
+        <li>Green = No Discharge</li>
+        <li>Yello = Discharge Last 24 hours</li>
+        <li>Red = Currently Discharging</li>
+        <li>Blue = No real-time data</li>
+      </ul>
+      </h2>
